@@ -3,9 +3,9 @@ title: Leyendo el poder
 authors:
 - admin
 superuser: true
-role: Podcast
+role: Grupo de reflexión y diálogo
 organizations: []
-bio: Un grupo de reflexión y debate
+bio: Grupo de reflexión y diálogo
 
 social:
 - icon: spotify
@@ -33,4 +33,4 @@ Leyendo el poder es un espacio abierto de reflexión y diálogo donde conoceremo
 
 Nuestras ideas fundacionales son la democratización del conocimiento, la interdisciplinariedad, el diálogo norte-sur, y el eclecticismo teórico.
 
-Somos politólogos e internacionalistas egresados de la Universidad de los Andes (Colombia) y la Pontificia Universidad Católica del Perú.
+Somos politólogos e internacionalistas egresados de la Pontificia Universidad Católica del Perú, Universidad de los Andes (Colombia) y la Universidad del Norte (Barranquilla).
