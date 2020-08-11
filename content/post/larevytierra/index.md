@@ -1,7 +1,7 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'La revolución y la tierra de Gonzalo Benavente'
+subtitle: 'Reseña de documental'
+summary: 
 authors:
 - Christian Chiroque Ruiz
 tags:
