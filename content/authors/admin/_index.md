@@ -6,18 +6,7 @@ superuser: true
 role: Podcast
 organizations: []
 bio: Un grupo de reflexión y debate
-interests:
-- Ideología, conocimiento
-- Coyuntura internacional
-- Género
-education:
-  courses:
-  - course: Universidad de Los Andes
-    institution: Colombia
-    year: ''
-  - course: Pontificia Universidad Católica del Perú
-    institution: ''
-    year: ''
+
 social:
 - icon: spotify
   icon_pack: fab
