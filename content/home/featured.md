@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = ""
-title = "Pódcast"
+title = "Podcast"
 weight = "10"
 widget = "featured"
 [advanced]
