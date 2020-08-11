@@ -11,22 +11,22 @@
 [[main]]
   name = "Podcast"
   url = "#featured"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Reseñas"
   url = "#posts"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Secciones"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Página FB"
   url = "https://www.facebook.com/leyendoelpoder/"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
