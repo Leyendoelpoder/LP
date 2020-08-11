@@ -19,6 +19,7 @@ category = ""
 publication_type = ""
 tag = ""
 [design]
+columns = "3"
 view = 3
 [design.background]
 
