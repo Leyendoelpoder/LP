@@ -7,39 +7,41 @@ role: Podcast
 organizations: []
 bio: Un grupo de reflexión y debate
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ideología, conocimiento
+- Coyuntura internacional
+- Género
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: "2012"
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2009"
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2008"
+  - course: Universidad de Los Andes
+    institution: Colombia
+    year: ''
+  - course: Pontificia Universidad Católica del Perú
+    institution: ''
+    year: ''
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "#contact"
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/show/6Zjyref3AfEUSJuxydbyVw?si=-CJlipp8RBeuT8pGYc5SuQ
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/leyendoelpoder/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCYLScfkcFG7ZDE5th33fY2A
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/leyendoelpoder
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/leyendoelpoder
 email: ''
 user_groups:
 - Researchers
 - Visitors
 
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leyendo el poder es un espacio abierto de reflexión y diálogo donde conoceremos nuevas perspectivas de la Ciencia Política y los Estudios Internacionales.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nuestras ideas fundacionales son la democratización del conocimiento, la interdisciplinariedad, el diálogo norte-sur, y el eclecticismo teórico.
+
+Somos politólogos e internacionalistas egresados de la Universidad de los Andes (Colombia) y la Pontificia Universidad Católica del Perú.
