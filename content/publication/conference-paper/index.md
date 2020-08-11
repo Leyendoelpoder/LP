@@ -23,6 +23,8 @@ publication_short: In *STC*
 
 abstract: ¡Bienvenidos a Leyendo el poder! En nuestro primer podcast les contaremos por qué buscamos visibilizar nuevas perspectivas de la Ciencia Política y los Estudios Internacionales. Conoce nuestro punto de vista sobre el rol de la academia frente a la sociedad y las propuestas que hemos elaborado para fomentar el diálogo y la reflexión sobre el poder en América Latina y el mundo actual. 
 
+<iframe src="https://open.spotify.com/embed-podcast/episode/3ttZNYLZKtus7A6OxWel4p" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -72,6 +74,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
-
-<iframe src="https://open.spotify.com/embed-podcast/episode/3ttZNYLZKtus7A6OxWel4p" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
