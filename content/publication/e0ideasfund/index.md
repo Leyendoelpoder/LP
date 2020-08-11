@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Nuestras ideas fundacionales"
 authors:
 - admin
-- Robert Ford
+- ChristianCR
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
