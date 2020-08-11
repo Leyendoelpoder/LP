@@ -3,7 +3,7 @@ active = true
 headless = true
 subtitle = ""
 title = "Programas"
-weight = 80
+weight = "10"
 widget = "featured"
 [advanced]
 css_class = ""
