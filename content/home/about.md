@@ -2,7 +2,7 @@
 active = true
 author = "admin"
 headless = true
-title = "¿Quiénes somos?"
+title = "Presentación"
 weight = "18"
 widget = "about"
 
