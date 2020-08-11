@@ -3,6 +3,7 @@ title: "Nuestras ideas fundacionales"
 authors:
 - admin
 - ChristianCR
+- JavierRB
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -73,4 +74,6 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/3ttZNYLZKtus7A6OxWel4p" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
