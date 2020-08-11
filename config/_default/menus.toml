@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Contacto"
-  url = "#contact"
+  name = "Página FB"
+  url = "https://www.facebook.com/leyendoelpoder/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
