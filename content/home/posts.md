@@ -3,7 +3,7 @@ active = true
 headless = true
 subtitle = ""
 title = "Reseñas"
-weight = 60
+weight = "20"
 widget = "pages"
 [advanced]
 css_class = ""
