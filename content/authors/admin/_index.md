@@ -40,6 +40,8 @@ user_groups:
 - Visitors
 
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leyendo el poder es un espacio abierto de reflexión y diálogo donde conoceremos nuevas perspectivas de la Ciencia Política y los Estudios Internacionales.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nuestras ideas fundacionales son la democratización del conocimiento, la interdisciplinariedad, el diálogo norte-sur, y el eclecticismo teórico.
+
+Somos politólogos e internacionalistas egresados de la Universidad de los Andes (Colombia) y la Pontificia Universidad Católica del Perú.
