@@ -3,14 +3,12 @@ title: 'Academic: the website builder for Hugo'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
-- admin
-- 吳恩達
+- Christian Chiroque Ruiz
 tags:
-- Academic
-- 开源
+- 
 categories:
-- Demo
-- 教程
+- Historia política
+- Perú
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
@@ -22,7 +20,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://scontent.fbog4-1.fna.fbcdn.net/v/t1.0-9/93324795_1610396682446133_2318717573115412480_o.jpg?_nc_cat=103&_nc_sid=74df0b&_nc_ohc=GrOLeXTrA8cAX8EWj-o&_nc_ht=scontent.fbog4-1.fna&oh=f061874fdb0bc16282fe16b45bc23d5b&oe=5F567CE4)'
   focal_point: ""
   preview_only: false
 
@@ -34,74 +32,11 @@ image:
 projects: []
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
-
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [**Ask a question** on the forum](https://discourse.gohugo.io)
-- 👥 [Chat with the **community**](https://spectrum.chat/academic)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
-
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
-
-**Key features:**
-
-- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 15+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://sourcethemes.com/academic/themes/) for your site. Themes are fully [customizable](https://sourcethemes.com/academic/docs/customization/#custom-theme).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
-
-## Install
-
-You can choose from one of the following four methods to install:
-
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize and deploy your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Updating
-
-[View the Update Guide](https://sourcethemes.com/academic/docs/update/).
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+La revolución y la tierra es un documental que tiene como objetivo brindar un recorrido sobre el proceso histórico que precedió y sucedió a la reforma agraria implementada durante el gobierno de Juan Velasco Alvarado (1968 - 1975).  De esta manera, Benavente presenta (en su segundo largometraje) a la reforma de 1969 como un hito histórico que no sólo repercutió en la base de la estructura económica que había regido hasta entonces (la hacienda, la oligarquía y la concentración de la propiedad de la tierra), sino también en la dinámica social, política y cultural del país.
+Una gran fortaleza del documental es la forma de acercarse a la problemática en cuestión. Haciendo uso no sólo de experiencias de actores que han vivido en carne propia los procesos, desde testimonios de exlíderes campesinos hasta de hacedores de política como el expresidente Morales Bermúdez, sino también recogiendo las lecturas de diversos especialistas en ciencias sociales, por lo cual el documental tiene una fuerte base analítica. No sólo son hechos y registros expuestos, muy interesantes, sino también la interacción de las distintas miradas que han surgido a partir de estos y que hasta hoy en día generan controversia.
+Así también, otro punto llamativo en el documental son las constantes referencias a películas que trataron diversos tópicos de la sociedad peruana, con el fin de caracterizar y ejemplificar cómo se percibían los procesos históricos en distintas épocas. De esta manera, entre otras referencias, para mostrar cómo era la vida de hacienda se utilizó el documental The Peruvian Paso (International Productions, 1977) que presentaba la hacienda Huando de la familia Graña; sobre las políticas de colonización de la selva (denominada montaña, en esos años) se usó La Muralla Verde (1970) de Armando Gómez Godoy; y para brindar una mirada de la reforma agraria desde abajo se presentaron extractos de Espejismo del mismo director. Por ello, en cierta forma, se tienen dos documentales en uno: una exploración del fenómeno de la reforma agraria y, aunque en menor medida, un recorrido por la producción filmográfica peruana (o sobre el Perú) que para muchos espectadores aún es desconocida.
+Respecto a temas de fondo y al propio análisis presentado, un acierto fue encontrar en Velasco un referente para marcar distintas posiciones, que a su vez se traducen en distintos testimonios recogidos. Como bien indica en la presentación de la película, para algunos Velasco es un villano, porque su medida “arrebató” la propiedad privada y generó un sistema que nunca cuajó (a diferencia de la prosperidad que se vivía en algunas haciendas), y para otros un héroe, pues eliminó la dictadura de la gran propiedad de la tierra y brindó visibilidad y derechos al campesino que era víctima del sistema. De esta manera, se pone en debate todos los mitos y leyendas que existen y que de una u otra manera han derivado en la generación de, como se titula el libro de Enrique Mayer, Cuentos feos de la Reforma Agraria y le permiten al espectador formar parte de ese debate.
+Ahora bien, a mi parecer existen algunos puntos que pudieron mencionarse o profundizarse durante el documental, los cuales toman como referencia también el año de 1969. Primero, antes de la reforma. Según la caracterización de la hacienda que se presentó, el espectador podría concluir que el modelo de hacienda Huando (norte de Lima) era el que se replicaba en todo el país. Sin embargo, por distintos estudios, sabemos que la hacienda y la tenencia de la tierra tenía diferencias marcadas entre la zona norte, centro y sur, las cuales tuvieron como principal causa las decisiones políticas durante la colonia (por ejemplo, la ubicación de las “reducciones”), así como características demográficas y geográficas del país. Las haciendas no eran homogéneas.
+Por otro lado, hablando sobre la reforma, el documental indica, acertadamente, que la política de Velasco produjo cambios importantes en la estructura económica alrededor de la propiedad de la tierra, como fue la generación de las cooperativas agrarias; sin embargo, no se aborda mucho en estos ni, nuevamente, en los distintos matices que tuvo la política a lo largo del país. Hubiese sido un muy buen complemento comentar sobre el caso de Puno y las Sociedades Agrarias de Interés Social. Como indica José Luis Rénique en un artículo titulado La Batalla por Puno: Violencia y Democracia en la Sierra Sur, en esta región la reforma agraria fue un proceso de concentración antes que de distribución. Este nuevo modelo, si bien produjo la fragmentación del modelo de hacienda, reproduciría sus desventajas (concentración de la gran propiedad), sólo que esta vez el responsable sería el Estado.
+Finalmente, un tercer punto que se pudo ahondar es el referido a los efectos de largo plazo de la reforma agraria. Los puntos más destacados en el documental son, a mi parecer, los referidos a la percepción de la reforma desde la zona urbana, en general, y limeña, en particular. De esta manera, a partir de los testimonios de los propios entrevistados, se comentan los cambios en los materiales educativos, las nuevas connotaciones de Estado nación que se promovía, la irrupción de la música chicha como respuesta al fenómeno de la migración, la figura del cholo como personaje representativo (buena la referencia a Allpa Kallpa, 1974), entre otros temas. Sin embargo, si bien se comenta que Velasco fomentó la transición de la terminología de “indio” a “campesino”, no se habla del nuevo papel que tendrían las comunidades campesinas a partir de entonces. Estas se convertirían, hasta el día de hoy, en los actores colectivos más importantes del interior del país con la tenencia y manejo de gran parte del territorio nacional. Las comunidades campesinas de hoy, antes que un producto de la colonia, son una herencia de la reforma agraria de Velasco.
+En suma, La revolución y la tierra, hace bien en transportar al espectador, con un rico repertorio documental, de testimonios y fragmentos de producciones cinematográficos, al proceso que caracterizó a una de las más importantes decisiones políticas que han remecido la sociedad peruana. Más allá de las valoraciones y las posturas políticas, no hay duda que en el Perú hay un antes y después de la reforma agraria.
