@@ -19,15 +19,21 @@ education:
     institution: ''
     year: ''
 social:
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/show/6Zjyref3AfEUSJuxydbyVw?si=-CJlipp8RBeuT8pGYc5SuQ
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/leyendoelpoder/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCYLScfkcFG7ZDE5th33fY2A
 - icon: facebook
   icon_pack: fab
-  link: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqa0JsWXlQQVJrUnVRSlV1WG5ZdXg3bW1jZkx2d3xBQ3Jtc0ttazcwQVl1VzhNTFpvbHNSRkU2eDJUQ29nS3VRek82UFZFNUNFMHNxakhSdWRqMDM2U05Xa0hwY0dUUU5fb0syNUZRQTRzYmNwcGh2MkxhTFJzQkFfdGFjSWdDMXVqX0VJanpnY1dTMm1IZHpFM3lGSQ&q=https%3A%2F%2Fwww.facebook.com%2Fleyendoelpoder
+  link: https://www.facebook.com/leyendoelpoder
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/leyendoelpoder
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 email: ''
 user_groups:
 - Researchers
