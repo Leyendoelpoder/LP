@@ -4,5 +4,7 @@
 # Hugo
 resources/
 public/
+<<<<<<< HEAD
 themes/academic
-themes/academic
+=======
+>>>>>>> parent of f2a299c... kk
