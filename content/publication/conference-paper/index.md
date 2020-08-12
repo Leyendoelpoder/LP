@@ -2,8 +2,8 @@
 title: "Nuestras ideas fundacionales"
 authors:
 - admin
-- ChristianCR
-- JavierRB
+- CCR
+- JRB
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
