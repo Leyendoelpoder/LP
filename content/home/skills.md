@@ -1,24 +1,29 @@
 +++
-active = false
+active = true
 headless = true
 subtitle = ""
-title = "Skills"
+title = "Ideas fundacionales"
 weight = 30
 widget = "featurette"
 [[feature]]
-description = "90%"
+description = "Abrir la academia"
 icon = "r-project"
 icon_pack = "fab"
-name = "R"
+name = "Democratización del conocimiento"
 [[feature]]
-description = "100%"
+description = "Dialogar con otras perspectivas"
 icon = "chart-line"
 icon_pack = "fas"
-name = "Statistics"
+name = "Interdisciplinariedad"
 [[feature]]
-description = "10%"
+description = "Más allá de angloamérica"
+icon = "fa-globe"
+icon_pack = "fas"
+name = "Diálogo norte-sur"
+[[feature]]
+description = "Hacer puentes"
 icon = "camera-retro"
 icon_pack = "fas"
-name = "Photography"
+name = "Eclecticismo teórico"
 
 +++
