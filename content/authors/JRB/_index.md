@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Politólogo e internacionalista
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: PUCP
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
