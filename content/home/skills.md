@@ -6,10 +6,10 @@ title = "Ideas fundacionales"
 weight = 11
 widget = "featurette"
 [[feature]]
-description = "Abrir la academia y acercarla a la sociedad"
+description = "Democratizar el saber y conectarla con la sociedad"
 icon = "door-open"
 icon_pack = "fab"
-name = "Democratización del conocimiento"
+name = "Conocimiento abierto"
 [[feature]]
 description = "Dialogar con otras perspectivas sobre el poder"
 icon = "people-carry"
