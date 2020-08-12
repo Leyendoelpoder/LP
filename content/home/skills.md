@@ -3,11 +3,11 @@ active = true
 headless = true
 subtitle = ""
 title = "Ideas fundacionales"
-weight = 12
+weight = 11
 widget = "featurette"
 [[feature]]
 description = "Abrir la academia y acercarla a la sociedad"
-icon = "lock-open"
+icon = "door-open"
 icon_pack = "fab"
 name = "Democratización del conocimiento"
 [[feature]]
