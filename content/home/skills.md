@@ -15,15 +15,15 @@ subtitle = "Programas de podcast y reseñas"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-description = "Miradas críticas sobre género, raza y clase"
-icon = "times"
-icon_pack = "fab"
-name = "Interseccionalidad"
-[[feature]]
 description = "Estudios de ideología política y regímenes de verdad"
 icon = "brain"
 icon_pack = "fas"
 name = "Conocimiento y poder"
+[[feature]]
+description = "Miradas críticas sobre género, raza y clase"
+icon = "times"
+icon_pack = "fab"
+name = "Interseccionalidad"
 [[feature]]
 description = "Opinión informada sobre eventos recientes del mundo actual"
 icon = "globe"
