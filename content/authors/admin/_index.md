@@ -3,7 +3,7 @@ title: Leyendo el poder
 authors:
 - admin
 superuser: true
-role: Grupo de reflexión y diálogo
+role: Ciencia Política y Estudios Internacionales
 organizations: []
 bio: Grupo de reflexión y diálogo
 
