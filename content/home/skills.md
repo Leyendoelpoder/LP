@@ -32,12 +32,12 @@ icon_pack = "fas"
 name = "Opinión informada sobre eventos recientes del mundo actual"
 [[feature]]
 description = "Aproximaciones al uso de la fuerza del Estado y los grupos criminales"
-icon = "hammer-war"
+icon = "shield-alt"
 icon_pack = "fas"
 name = "Seguridad internacional"
 [[feature]]
 description = "Reflexión de grandes autores y perspectivas en diálogo con nuestra realidad"
-icon = "lightbulb-on"
+icon = "lightbulb"
 icon_pack = "fas"
 name = "Filosofía política"
 [[feature]]
