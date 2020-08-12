@@ -30,11 +30,3 @@ height = "500px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "por1.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
