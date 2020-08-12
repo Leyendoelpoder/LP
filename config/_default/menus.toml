@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Quienes somos"
-  url = "https://www.facebook.com/leyendoelpoder/"
+  url = "#people"
   weight = 50
 
 [[main]]
