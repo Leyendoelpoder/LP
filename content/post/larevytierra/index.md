@@ -3,7 +3,7 @@ title: 'La revolución y la tierra de Gonzalo Benavente'
 subtitle: 'Reseña de documental'
 summary: 
 authors:
-- ChristianCR
+- CCR
 tags:
 - 
 categories:
