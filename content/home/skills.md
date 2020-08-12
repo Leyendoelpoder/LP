@@ -3,10 +3,10 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = "Áreas temáticas"
-subtitle = ""
+subtitle = "Programas de podcast y reseñas"
 
 # Showcase personal skills or business features.
 # 
@@ -14,22 +14,21 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-
 [[feature]]
-description = "Interseccionalidad"
+description = "Miradas críticas sobre género, raza y clase"
 icon = "times"
 icon_pack = "fab"
-name = "Miradas críticas sobre género, raza y clase"
+name = "Interseccionalidad"
 [[feature]]
-description = "Conocimiento y poder"
+description = "Estudios de ideología política y regímenes de verdad"
 icon = "brain"
 icon_pack = "fas"
-name = "Estudios de ideología política y regímenes de verdad"
+name = "Conocimiento y poder"
 [[feature]]
-description = "Análisis de coyuntura global"
+description = "Opinión informada sobre eventos recientes del mundo actual"
 icon = "globe"
 icon_pack = "fas"
-name = "Opinión informada sobre eventos recientes del mundo actual"
+name = "Análisis de coyuntura global"
 [[feature]]
 description = "Aproximaciones a las amenazas transnacionales"
 icon = "shield-alt"
