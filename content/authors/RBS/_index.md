@@ -1,38 +1,37 @@
 ---
 # Display name
-title: Javier Ramírez Bullón
+title: Reynell Badillo Sarmiento
 
 # Username (this should match the folder name)
 authors:
-- JRB
+- RBS
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Politólogo e internacionalista
+role: Iternacionalista
 
 # Organizations/Affiliations
 organizations:
-- name: PUCP
+- name: Uniandes
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me interesa investigar la adaptación de los Estados Sudamericanos al orden internacional y la legitimación social del poder.
+bio: Bio.
 
 interests:
 - Política exterior sudamericana
-- Regionalismo comparado
-- Ideologías políticas
+- Seguridad Internacional
 
 education:
   courses:
   - course: Mg. Estudios Internacionales
     institution: Universidad de los Andes (Colombia)
     year: 2020
-  - course: Lic. Ciencia Política y Gobierno
-    institution: Pontificia Universidad Católica del Perú
-    year: 2014
+  - course: Relaciones Internacionales
+    institution: Universidad del Norte
+    year: 20XX
 
 
 # Social/Academic Networking
@@ -65,4 +64,4 @@ user_groups:
 - Investigadores
 ---
 
-JRB es.
+RBS es.

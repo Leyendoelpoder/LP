@@ -1,38 +1,37 @@
 ---
 # Display name
-title: Javier Ramírez Bullón
+title: Katrim De la Hoz Del Villar
 
 # Username (this should match the folder name)
 authors:
-- JRB
+- KHV
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Politólogo e internacionalista
+role: Abogada e internacionalista
 
 # Organizations/Affiliations
 organizations:
-- name: PUCP
+- name: Universidad del Atlántico
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me interesa investigar la adaptación de los Estados Sudamericanos al orden internacional y la legitimación social del poder.
+bio: K.
 
 interests:
-- Política exterior sudamericana
-- Regionalismo comparado
-- Ideologías políticas
+- Nuevos feminismos 
+- Estudios Regionales
 
 education:
   courses:
   - course: Mg. Estudios Internacionales
-    institution: Universidad de los Andes (Colombia)
-    year: 2020
-  - course: Lic. Ciencia Política y Gobierno
-    institution: Pontificia Universidad Católica del Perú
-    year: 2014
+    institution: Universidad del Atlántico (Colombia)
+    year: 2021
+  - course: Derecho
+    institution: Universidad del Atlántico
+    year: 20XX
 
 
 # Social/Academic Networking
@@ -57,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jramirezb@pucp.edu.pe"
+email: "aaa.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

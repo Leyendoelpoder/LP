@@ -18,7 +18,7 @@ organizations:
   url: "https://datapolitica.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pendejo.
+bio: CCR.
 
 interests:
 - Filosofía política
@@ -54,8 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Investigadores
 ---
 
 Christian Chiroque es politólogo con estudios de Maestría en Gerencia Social de la Pontificia Universidad Católica del Perú. Está dedicado a la difusión de estadística aplicada al análisis social, la docencia universitaria y la realización de programas de capacitación. Sus áreas de interés son la filosofía política, la resolución de conflictos y la estadística aplicada.

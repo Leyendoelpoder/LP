@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Javier Ramírez Bullón
+title: Lidia Espinoza Vásquez
 
 # Username (this should match the folder name)
 authors:
-- JRB
+- LEV
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Politólogo e internacionalista
+role: Politóloga
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me interesa investigar la adaptación de los Estados Sudamericanos al orden internacional y la legitimación social del poder.
+bio: LEV.
 
 interests:
-- Política exterior sudamericana
-- Regionalismo comparado
-- Ideologías políticas
+- Desarrollo Internacional
+
 
 education:
   courses:
-  - course: Mg. Estudios Internacionales
-    institution: Universidad de los Andes (Colombia)
-    year: 2020
+  - course: Mg. Desarrollo Internacional
+    institution: University of Sussex
+    year: 20XX
   - course: Lic. Ciencia Política y Gobierno
     institution: Pontificia Universidad Católica del Perú
-    year: 2014
+    year: 20XX
 
 
 # Social/Academic Networking
@@ -57,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jramirezb@pucp.edu.pe"
+email: "ddd"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -65,4 +64,4 @@ user_groups:
 - Investigadores
 ---
 
-JRB es.
+LEV es.
