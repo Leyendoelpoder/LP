@@ -3,7 +3,7 @@ active = true
 headless = true
 subtitle = ""
 title = "Podcast"
-weight = "10"
+weight = "19"
 widget = "featured"
 [advanced]
 css_class = ""
