@@ -3,7 +3,7 @@ active = true
 headless = true
 subtitle = ""
 title = "Ideas fundacionales"
-weight = 30
+weight = 02
 widget = "featurette"
 [[feature]]
 description = "Abrir la academia"
@@ -17,7 +17,7 @@ icon_pack = "fas"
 name = "Interdisciplinariedad"
 [[feature]]
 description = "Más allá de angloamérica"
-icon = "fa-globe"
+icon = "globe"
 icon_pack = "fas"
 name = "Diálogo norte-sur"
 [[feature]]
