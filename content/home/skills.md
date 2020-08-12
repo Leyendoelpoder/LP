@@ -2,28 +2,37 @@
 active = true
 headless = true
 subtitle = ""
-title = "Ideas fundacionales"
+title = "Áreas temáticas"
 weight = 11
 widget = "featurette"
 [[feature]]
-description = "Democratizar el saber y conectarla con la sociedad"
-icon = "door-open"
+description = "Interseccionalidad"
+icon = "times"
 icon_pack = "fab"
-name = "Conocimiento abierto"
-[[feature]]
-description = "Dialogar con otras perspectivas sobre el poder"
-icon = "people-carry"
+name = "Miradas críticas sobre el género, raza, clase..."
+[[feature]]cro
+description = "Conocimiento y poder"
+icon = "brain"
 icon_pack = "fas"
-name = "Interdisciplinariedad"
+name = "El estudio de la ideología, cultura política y regímenes de verdad"
 [[feature]]
-description = "Analizar el mundo más allá de angloamérica"
+description = "Análisis de coyuntura global"
 icon = "globe"
 icon_pack = "fas"
-name = "Diálogo norte-sur"
+name = "Opinión informada sobre eventos recientes del mundo actual"
 [[feature]]
-description = "Combinar puntos de vista"
-icon = "mortar-pestle"
+description = "Aproximaciones al uso de la fuerza del Estado y los grupos criminales"
+icon = "hammer-war"
 icon_pack = "fas"
-name = "Eclecticismo teórico"
-
+name = "Seguridad internacional"
+[[feature]]
+description = "Reflexión de grandes autores y perspectivas en diálogo con nuestra realidad"
+icon = "lightbulb-on"
+icon_pack = "fas"
+name = "Filosofía política"
+[[feature]]
+description = "Un vistazo hacia diversos contextos regionales más allá de América Latina"
+icon = "atlas"
+icon_pack = "fas"
+name = "Historia Internacional"
 +++
