@@ -1,7 +1,6 @@
 ---
 title: "Nuestras ideas fundacionales"
 authors:
-- admin
 - CCR
 - JRB
 
@@ -16,10 +15,6 @@ publishDate: "2020-01-01T00:00:00Z"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["0"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
 
 abstract: ¡Bienvenidos a Leyendo el poder! En nuestro primer podcast les contaremos por qué buscamos visibilizar nuevas perspectivas de la Ciencia Política y los Estudios Internacionales. Conoce nuestro punto de vista sobre el rol de la academia frente a la sociedad y las propuestas que hemos elaborado para fomentar el diálogo y la reflexión sobre el poder en América Latina y el mundo actual. 
 
