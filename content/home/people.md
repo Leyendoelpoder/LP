@@ -1,5 +1,5 @@
 +++
-active = false
+active = true
 headless = true
 subtitle = ""
 title = "Quiénes somos"
@@ -9,10 +9,10 @@ widget = "people"
 css_class = ""
 css_style = ""
 [content]
-user_groups = ["Principal Investigators", "Researchers", "Grad Students", "Administration", "Visitors", "Alumni"]
+user_groups = ["Investigadores", "Estudiantes", "Coordinación", "Invitad@s"]
 [design]
 show_interests = true
-show_social = false
+show_social = true
 [design.background]
 
 +++
