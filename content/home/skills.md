@@ -21,8 +21,8 @@ icon_pack = "fas"
 name = "Conocimiento y poder"
 [[feature]]
 description = "Miradas críticas sobre género, raza y clase"
-icon = "times"
-icon_pack = "fab"
+icon = "crosshairs"
+icon_pack = "fas"
 name = "Interseccionalidad"
 [[feature]]
 description = "Opinión informada sobre eventos recientes del mundo actual"
