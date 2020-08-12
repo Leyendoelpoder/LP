@@ -19,12 +19,12 @@ subtitle = ""
 description = "Interseccionalidad"
 icon = "times"
 icon_pack = "fab"
-name = "Miradas críticas sobre el género, raza, clase..."
-[[feature]]cro
+name = "Miradas críticas sobre género, raza y clase"
+[[feature]]
 description = "Conocimiento y poder"
 icon = "brain"
 icon_pack = "fas"
-name = "El estudio de la ideología y regímenes de verdad"
+name = "Estudios de ideología política y regímenes de verdad"
 [[feature]]
 description = "Análisis de coyuntura global"
 icon = "globe"
