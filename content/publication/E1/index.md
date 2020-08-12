@@ -1,8 +1,8 @@
 ---
-title: "Nuestras ideas fundacionales"
+title: "Del feminismo negro a la interseccionalidad"
 authors:
-- CCR
-- JRB
+- LEV
+- KHV
 
 date: "2020-07-01T00:00:00Z"
 doi: ""
@@ -16,7 +16,7 @@ publishDate: "2020-01-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["0"]
 
-abstract: ¡Bienvenidos a Leyendo el poder! En nuestro primer podcast les contaremos por qué buscamos visibilizar nuevas perspectivas de la Ciencia Política y los Estudios Internacionales. Conoce nuestro punto de vista sobre el rol de la academia frente a la sociedad y las propuestas que hemos elaborado para fomentar el diálogo y la reflexión sobre el poder en América Latina y el mundo actual. 
+abstract: En este programa les contaremos por qué es tan importante hablar de interseccionalidad tanto en el contexto estadounidense como en el latinoamericano. Conoce qué es, sus alcances y cómo transcendió este marco de análisis difundido por Kimberlé Crenshaw.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,4 +53,6 @@ projects:
 slides: ""
 ---
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/3ttZNYLZKtus7A6OxWel4p" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/73oGirhtFLCaTTaDi0bMev" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z25JgbYlF8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

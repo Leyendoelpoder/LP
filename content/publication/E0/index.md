@@ -1,8 +1,10 @@
 ---
 title: "Nuestras ideas fundacionales"
 authors:
-- CCR
 - JRB
+- CCR
+- KDV
+- RBS
 
 date: "2020-07-01T00:00:00Z"
 doi: ""
