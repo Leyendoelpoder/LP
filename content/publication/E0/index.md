@@ -3,7 +3,7 @@ title: "Nuestras ideas fundacionales"
 authors:
 - JRB
 - CCR
-- KDV
+- KHV
 - RBS
 
 date: "2020-07-01T00:00:00Z"
