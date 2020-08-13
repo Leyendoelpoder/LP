@@ -15,7 +15,7 @@ subtitle = "Programas de podcast y reseñas"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-description = "Estudios de ideología política y regímenes de verdad"
+description = "Análisis de ideología política y regímenes de verdad"
 icon = "brain"
 icon_pack = "fas"
 name = "Conocimiento y poder"
@@ -25,7 +25,7 @@ icon = "crosshairs"
 icon_pack = "fas"
 name = "Interseccionalidad"
 [[feature]]
-description = "Opinión informada sobre eventos recientes del mundo actual"
+description = "Opinión informada sobre eventos recientes del mundo"
 icon = "globe"
 icon_pack = "fas"
 name = "Coyuntura global"
@@ -35,7 +35,7 @@ icon = "shield-alt"
 icon_pack = "fas"
 name = "Seguridad internacional"
 [[feature]]
-description = "Reflexión de grandes autores y perspectivas teóricas"
+description = "Reflexiones basadas en grandes autores y perspectivas teóricas"
 icon = "lightbulb"
 icon_pack = "fas"
 name = "Filosofía política"
