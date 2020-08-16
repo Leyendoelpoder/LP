@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me interesa investigar la adaptación de los Estados Sudamericanos al orden internacional y la legitimación social del poder.
+bio: Investigador situado entre el eclecticismo analítico y la emancipación del poder. 
 
 interests:
 - Política exterior sudamericana
 - Regionalismo comparado
 - Ideologías políticas
+- Relación medios-política exterior-opinión pública
 
 education:
   courses:
@@ -65,4 +66,4 @@ user_groups:
 - Investigadores
 ---
 
-JRB es.
+Javier R.B cuenta con experiencia en la organización y ejecución de proyectos de investigación grupales de larga duración, así como en la innovación de programas curriculares universitarios. Ha expuesto en congresos internacionales (ISA, LASA, ALACIP, Redintercol), escrito un libro (Fondo editorial PUCP) y diversos artículos publicados en revistas académicas (Politai, Desafíos, RAEP). Sus áreas de especialización son la política exterior de países sudamericanos, la integración regional en América Latina y la interesección entre ideología política, medios y opinión pública. 
