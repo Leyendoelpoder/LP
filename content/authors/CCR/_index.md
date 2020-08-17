@@ -27,12 +27,13 @@ interests:
 
 education:
   courses:
-    - course: Mg. Gerencia Social
-    institution: Pontificia Universidad Católica del Perú
+  - course: Mg. Estudios Internacionales
+    institution: Universidad de los Andes (Colombia)
     year: 2020
   - course: Lic. Ciencia Política y Gobierno
     institution: Pontificia Universidad Católica del Perú
-    year: 2015
+    year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +45,11 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ChristianChiro3
+  link: https://twitter.com/jramirezbullon
+- icon: google-scholar
+  icon_pack: ai
+  link: 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
