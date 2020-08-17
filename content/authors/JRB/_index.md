@@ -15,16 +15,15 @@ role: Politólogo e internacionalista
 # Organizations/Affiliations
 organizations:
 - name: PUCP
-  url: ""
+  url: "https://pucp.academia.edu/jramirezb"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Investigador situado entre el eclecticismo analítico y la emancipación del poder. 
 
 interests:
-- Política exterior sudamericana
-- Regionalismo comparado
-- Ideologías políticas
-- Relación medios-política exterior-opinión pública
+- Política exterior de potencias menores
+- Regionalismo e integración regional
+- Ideologías y regímenes de verdad
 
 education:
   courses:
@@ -46,10 +45,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jramirezbullon
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=8_i8Xo0AAAAJ&hl=es&oi=ao
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,4 +65,4 @@ user_groups:
 - Investigadores
 ---
 
-Javier R.B cuenta con experiencia en la organización y ejecución de proyectos de investigación grupales de larga duración, así como en la innovación de programas curriculares universitarios. Ha expuesto en congresos internacionales (ISA, LASA, ALACIP, Redintercol), escrito un libro (Fondo editorial PUCP) y diversos artículos publicados en revistas académicas (Politai, Desafíos, RAEP). Sus áreas de especialización son la política exterior de países sudamericanos, la integración regional en América Latina y la interesección entre ideología política, medios y opinión pública. 
+Javier es politólogo PUCP e internacionalista Uniandes. Busca generar puentes entre el conocimiento académico y la sociedad a través de una perspectiva ecléctica y que conciba al poder como fuerza emancipadora. Cuenta con experiencia en la organización y ejecución de proyectos de investigación grupales, así como en la innovación de programas curriculares universitarios en la Pontificia Universidad Católica del Perú. Ha expuesto en congresos internacionales (ISA, LASA, ALACIP, Redintercol), escrito un libro (Fondo editorial PUCP) y diversos artículos publicados en revistas académicas (Politai, Desafíos, RAEP). 
