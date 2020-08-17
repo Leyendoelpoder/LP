@@ -15,18 +15,21 @@ role: Politólogo
 # Organizations/Affiliations
 organizations:
 - name: PUCP
-  url: "https://datapolitica.netlify.app/"
+  url: "https://christianchiroque.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: CCR.
 
 interests:
-- Filosofía política
 - Estadística aplicada
 - Resolución de conflictos
+- Filosofía política
 
 education:
   courses:
+    - course: Mg. Gerencia Social
+    institution: Pontificia Universidad Católica del Perú
+    year: 2020
   - course: Lic. Ciencia Política y Gobierno
     institution: Pontificia Universidad Católica del Perú
     year: 2015
@@ -57,4 +60,4 @@ user_groups:
 - Investigadores
 ---
 
-Christian Chiroque es politólogo con estudios de Maestría en Gerencia Social de la Pontificia Universidad Católica del Perú. Está dedicado a la difusión de estadística aplicada al análisis social, la docencia universitaria y la realización de programas de capacitación. Sus áreas de interés son la filosofía política, la resolución de conflictos y la estadística aplicada.
+Christian es politólogo con estudios de maestría en Gerencia Social por la Pontificia Universidad Católica del Perú (PUCP) y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. Actualmente se desempeña como especialista en investigación cuantitativa y gestión social para proyectos de inversión en V&C Analistas y es docente en la Facultad de Ciencias Sociales de la PUCP. Es creador de Data Política y cofundador de Leyendo el Poder.
