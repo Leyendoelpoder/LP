@@ -15,10 +15,10 @@ role: Iternacionalista
 # Organizations/Affiliations
 organizations:
 - name: Uniandes
-  url: ""
+  url: "https://uniandes.academia.edu/ReynellBadillo"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio.
+bio: Internacionalista de la Universidad del Norte con énfasis en Ciencia Política.
 
 interests:
 - Política exterior sudamericana
@@ -44,10 +44,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Reynellbadillo
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=8YvnbfwAAAAJ&hl=es&oi=ao
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,4 +64,4 @@ user_groups:
 - Investigadores
 ---
 
-RBS es.
+Reynell es internacionalista de la Universidad del Norte con énfasis en Ciencia Política y estudiante de la Maestría en Estudios Internacionales de la Universidad de Los Andes. Con experiencia en investigación y publicaciones relacionadas con la política exterior colombiana, el conflicto armado y el crimen organizado en el Caribe colombiano y América Latina. Ha participado en comités editoriales de revistas académicas, contribuido a la realización de foros de investigación, ha sido ponente en eventos académicos y se desempeña actualmente como miembro de la red de expertos de La Silla Caribe. 

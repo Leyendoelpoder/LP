@@ -15,13 +15,15 @@ role: Politóloga
 # Organizations/Affiliations
 organizations:
 - name: PUCP
-  url: ""
+  url: "https://www.linkedin.com/in/lidiaespinoza/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: LEV.
 
 interests:
 - Desarrollo Internacional
+- Seguridad humana
+- Estudios culturales
 
 
 education:
@@ -64,4 +66,4 @@ user_groups:
 - Investigadores
 ---
 
-LEV es.
+Lidia es master en Desarrollo Internacional por la Universidad de Sussex y politóloga PUCP. Tiene cinco años de experiencia en investigación, gestión de proyectos, advocacy, e impacto y evaluación. Se interesa por los estudios de género, seguridad humana, migración y estudios culturales en América Latina y el Caribe.

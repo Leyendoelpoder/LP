@@ -15,14 +15,15 @@ role: Abogada e internacionalista
 # Organizations/Affiliations
 organizations:
 - name: Universidad del Atlántico
-  url: ""
+  url: "https://uniandes.academia.edu/KatrimDeLaHozDelVillar"
 
 # Short bio (displayed in user profile at end of posts)
-bio: K.
+bio:  Abogada por la Universidad del Atlántico (Colombia)
 
 interests:
 - Nuevos feminismos 
 - Estudios Regionales
+- Derecho internacional
 
 education:
   courses:
@@ -64,4 +65,4 @@ user_groups:
 - Investigadores
 ---
 
-JRB es.
+Katrim es estudiante de la Maestría en Estudios Internacionales en la Universidad de los Andes (Colombia). Abogada por la Universidad del Atlántico (Colombia) donde es investigadora en los grupos de investigación DEPCIPE y Derecho y Territorio. Se interesa por los estudios internacionales desde la óptica del derecho y la ciencia política.
