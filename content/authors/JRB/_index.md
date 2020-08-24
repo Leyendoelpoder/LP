@@ -21,9 +21,9 @@ organizations:
 bio: Investigador situado entre el eclecticismo analítico y la emancipación del poder. 
 
 interests:
-- Política exterior de potencias menores
-- Regionalismo e integración regional
-- Ideologías y regímenes de verdad
+- Política exterior comparada
+- Regionalismo e integración
+- Ideologías políticas
 
 education:
   courses:
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "jramirezb@pucp.edu.pe"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jramirezbullon
@@ -65,4 +65,4 @@ user_groups:
 - Investigadores
 ---
 
-Javier es politólogo PUCP e internacionalista Uniandes. Busca generar puentes entre el conocimiento académico y la sociedad a través de una perspectiva ecléctica y que conciba al poder como fuerza emancipadora. Cuenta con experiencia en la organización y ejecución de proyectos de investigación grupales, así como en la innovación de programas curriculares universitarios en la Pontificia Universidad Católica del Perú. Ha expuesto en congresos internacionales (ISA, LASA, ALACIP, Redintercol), escrito un libro (Fondo editorial PUCP) y diversos artículos publicados en revistas académicas (Politai, Desafíos, RAEP). 
+Javier es politólogo PUCP e internacionalista Uniandes. Busca generar puentes entre el conocimiento académico y la sociedad a través de una perspectiva ecléctica y que conciba al poder como fuerza emancipadora. Cuenta con experiencia en la organización y ejecución de proyectos de investigación grupales, así como en la innovación de programas curriculares universitarios. Ha expuesto en congresos internacionales (ISA, LASA, ALACIP, Redintercol), escrito un libro (Fondo editorial PUCP) y diversos artículos publicados en revistas académicas (Politai, Desafíos, RAEP). 
