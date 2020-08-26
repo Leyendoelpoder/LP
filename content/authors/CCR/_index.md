@@ -55,6 +55,9 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/ch06074681/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/christianchr/
 
 
 # Link to a PDF of your resume/CV from the About widget.
