@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = "Lecturas y más"
-title = "Recomendamos"
+title = "Sugerimos"
 weight = 70
 widget = "pages"
 [advanced]
