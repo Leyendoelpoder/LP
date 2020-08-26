@@ -1,8 +1,8 @@
 +++
-active = false
+active = true
 headless = true
-subtitle = ""
-title = "Recent & Upcoming Talks"
+subtitle = "Lecturas y más"
+title = "Recomendamos"
 weight = 70
 widget = "pages"
 [advanced]
