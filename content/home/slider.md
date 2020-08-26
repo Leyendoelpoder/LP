@@ -35,20 +35,30 @@ height = ""
   cta_icon = "youtube"
 
 [[item]]
-  title = "Asociación aliada"
+  title = "Asociaciones aliadas"
   content = "Internacia"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "izquierda.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/izquierda.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
+  cta_label = "Muro Llano"
+  cta_url = "https://www.murollano.org/"
+  cta_icon_pack = "fab"
+  cta_icon = "handshake"
+
+  cta_label = "Internacia"
+  cta_url = "https://internacia.wordpress.com/quienes-somos-2/"
+  cta_icon_pack = "fab"
+  cta_icon = "handshake"
+
 [[item]]
-  title = "Asociación aliada"
-  content = "Muro Llano"
+  title = "Próximos episodios"
+  content = "Los prejuicios de las Relaciones Internacionales"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "derecha.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/derecha.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-+++
+
