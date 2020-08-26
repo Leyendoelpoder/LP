@@ -48,11 +48,6 @@ height = ""
   cta_icon_pack = "fab"
   cta_icon = "handshake"
 
-  cta_label = "Internacia"
-  cta_url = "https://internacia.wordpress.com/quienes-somos-2/"
-  cta_icon_pack = "fab"
-  cta_icon = "handshake"
-
 [[item]]
   title = "Próximos episodios"
   content = "Los prejuicios de las Relaciones Internacionales"
@@ -62,3 +57,7 @@ height = ""
   overlay_img = "headers/derecha.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
+  cta_label = "Internacia"
+  cta_url = "https://internacia.wordpress.com/quienes-somos-2/"
+  cta_icon_pack = "fab"
+  cta_icon = "handshake"
