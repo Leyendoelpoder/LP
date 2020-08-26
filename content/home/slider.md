@@ -36,20 +36,12 @@ height = ""
   cta_icon = "youtube"
 
 [[item]]
-  title = "Nuevos aliados"
-  content = "Asociación civil Internacia y Muro Llano"
+  title = "Próximos episodios"
+  content = "Los prejuicios de las Relaciones Internacionales, Cuestionando la enseñanza de las RRII en Sudamérica"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/izquierda.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "Próximos episodios"
-  content = "Los prejuicios de las Relaciones Internacionales, Cuestionando la enseñanza de las RRII en Sudamérica"
-  align = "right"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/derecha.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
