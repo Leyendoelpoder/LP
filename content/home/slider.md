@@ -37,7 +37,7 @@ height = "400px"
 
 [[item]]
   title = "Próximos episodios"
-  content = "Los prejuicios de las Relaciones Internacionales, Cuestionando la enseñanza de las RRII en Sudamérica"
+  content = "Los prejuicios de las Relaciones Internacionales, Cuestionando la enseñanza de las RRII en Sudamérica, Poder y biopolítica durante la pandemia"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
