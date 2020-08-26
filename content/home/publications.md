@@ -2,7 +2,7 @@
 active = false
 headless = true
 subtitle = ""
-title = "Recent post"
+title = "Publicaciones recientes"
 weight = 90
 widget = "pages"
 [advanced]
