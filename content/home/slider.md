@@ -5,6 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
+
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 interval = false
@@ -16,8 +17,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Último episodio"
-  content = "La competencia geopolítica detrás de la vacuna COVID-19"
+  title = "Hello"
+  content = "I am center aligned :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,10 +30,10 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Ver en youtube"
-  cta_url = "https://www.youtube.com/watch?v=WzQOBDBrbac"
-  cta_icon_pack = "fab"
-  cta_icon = "youtube"
+  cta_label = "Get Academic"
+  cta_url = "https://sourcethemes.com/academic/"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
 
 [[item]]
   title = "Left"
@@ -51,3 +52,4 @@ height = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
++++
