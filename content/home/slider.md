@@ -36,12 +36,12 @@ height = ""
   cta_icon = "youtube"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "Nuevos aliados"
+  content = "Asociación civil Internacia y Muro Llano"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/izquierda.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
