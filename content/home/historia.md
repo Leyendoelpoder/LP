@@ -25,8 +25,8 @@ title = "Cultivación académica"
 [[experience]]
 company = "Bogotá, Lima"
 company_url = ""
-date_end = "2018-08-01"
-date_start = "2020-02-01"
+date_end = "2020-02-01"
+date_start = "2018-08-01"
 description = "La idea de alzar nuestra voz y crear un espacio de diálogo y formáción más allá de las aulas estuvo en la mente de muchos de nosotr@s durante este tiempo. Sin embargo, la idea solo comenzó a germinar cuando reconocimos el potencial de hacer una iniciativa binacional. Las aulas de Uniandes, donde Alexandra, Katrim, Reynell y Javier cursaban la Maestría en Estudios Internacionales fueron algunos de los primeros espacios de discusión que inspiraron nuestro proyecto."
 title = "Encuentro colomboperuano"
 [[experience]]
