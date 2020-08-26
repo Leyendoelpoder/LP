@@ -1,12 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Análisis de coyuntura global
+summary: En alianza con la Asociación Civil Internacia
 tags:
 - Demo
-date: "2016-04-27T00:00:00Z"
+date: "2020-08-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://www.facebook.com/internacia.peru/
 
 image:
   caption: Photo by Toa Heftiba on Unsplash

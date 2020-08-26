@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = ""
-title = "Alianzas"
+title = "Proyectos"
 weight = "37"
 widget = "portfolio"
 [advanced]
