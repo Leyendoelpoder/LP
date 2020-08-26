@@ -69,7 +69,7 @@ email: "aaa.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigadores
+- Comunidad anárquica
 ---
 
 Katrim es estudiante de la Maestría en Estudios Internacionales en la Universidad de los Andes (Colombia) y abogada de la Universidad del Atlántico. Su formación complementaria ha estado marcada en temas de gobernanza, gestión pública, desarrollo local, diálogo, posconflicto y paz. Se ha desempeñado profesionalmente en la facultad de Ciencias Jurídicas como asistente administrativa, representante del Semillero de Derecho Penal, Violencia y Conflicto, investigadora adscrita a la Facultad de Ciencias Jurídicas de la Universidad del Atlántico y oficial mayor en la Rama Judicial. Es evaluadora de REDCOLSI, en temáticas de DDHH, Gobernanza, Conflicto y Posconflicto. Ha publicado artículos investigativos en revistas especializadas y libros resultado de investigación.

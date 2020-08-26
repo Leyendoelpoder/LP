@@ -72,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigadores
+- Comunidad anárquica
 ---
 
 Christian es politólogo con estudios de maestría en Gerencia Social por la Pontificia Universidad Católica del Perú (PUCP) y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. Actualmente se desempeña como especialista en investigación cuantitativa y gestión social para proyectos de inversión en V&C Analistas y es docente en la Facultad de Ciencias Sociales de la PUCP. Es creador del canal de divulgación sobre estadística aplicada para el análisis político "Data Política".

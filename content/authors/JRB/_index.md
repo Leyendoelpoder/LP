@@ -7,7 +7,7 @@ authors:
 - JRB
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Politólogo e internacionalista
@@ -72,7 +72,7 @@ email: "jramirezb@pucp.edu.pe"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigadores
+- Comunidad anárquica
 ---
 
 Javier es politólogo PUCP e internacionalista Uniandes. Busca generar puentes entre el conocimiento académico y la sociedad a través de una perspectiva ecléctica y que conciba al poder como fuerza emancipadora. Cuenta con experiencia en la organización y ejecución de proyectos de investigación grupales, así como en la innovación de programas curriculares universitarios. Ha expuesto en congresos internacionales (ISA, LASA, ALACIP, Redintercol), escrito un libro (Fondo editorial PUCP) y diversos artículos publicados en revistas académicas (Politai, Desafíos, RAEP). 
