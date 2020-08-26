@@ -19,12 +19,12 @@ height = "400px"
 [[item]]
   title = "Nuevo episodio"
   content = "La competencia geopolítica detrás de la vacuna COVID-19"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/izquierda.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -38,10 +38,10 @@ height = "400px"
 [[item]]
   title = "Próximos episodios"
   content = "Los prejuicios de las Relaciones Internacionales, Cuestionando la enseñanza de las RRII en Sudamérica"
-  align = "left"
+  align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/izquierda.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/derecha.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++
