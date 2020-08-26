@@ -55,9 +55,9 @@ social:
 - icon: academia
   icon_pack: ai
   link: https://pucp.academia.edu/jramirezb
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Javier_Ramirez_Bullon
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jramirezbullon/
   
 
 # Link to a PDF of your resume/CV from the About widget.
