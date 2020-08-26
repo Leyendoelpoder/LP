@@ -1,19 +1,19 @@
 +++
-active = false
+active = true
 date_format = "Jan 2006"
 headless = true
 subtitle = ""
-title = "Experience"
+title = "Nuestra historia"
 weight = 40
 widget = "experience"
 [[experience]]
-company = "GenCoin"
+company = "Antecedente"
 company_url = ""
 date_end = ""
-date_start = "2017-01-01"
-description = "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  * Deploying\n  "
-location = "California"
-title = "CEO"
+date_start = ""
+description = "Christian y Javier forman un grupo de lectura llamado *Logos no esctructurado* junto con dos compañeros de Ciencias Sociales en la PUCP."
+location = "Lima, Perú"
+title = "2015"
 [[experience]]
 company = "University X"
 company_url = ""
