@@ -15,10 +15,10 @@ role: Politólogo
 # Organizations/Affiliations
 organizations:
 - name: PUCP
-  url: "https://christianchiroque.com/"
+  url: "http://facultad.pucp.edu.pe/ciencias-sociales/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: CCR.
+bio: Politólogo con estudios de maestría en Gerencia Social por la Pontificia Universidad Católica del Perú.
 
 interests:
 - Estadística aplicada
@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: Mg. Estudios Internacionales
-    institution: Universidad de los Andes (Colombia)
+  - course: Mg. Gerencia Social
+    institution: Pontificia Universidad Católica del Perú
     year: 2020
   - course: Lic. Ciencia Política y Gobierno
     institution: Pontificia Universidad Católica del Perú
-    year: 2014
+    year: 2015
 
 
 # Social/Academic Networking
