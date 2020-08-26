@@ -7,7 +7,7 @@ authors:
 - JRB
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Politólogo e internacionalista
@@ -15,7 +15,7 @@ role: Politólogo e internacionalista
 # Organizations/Affiliations
 organizations:
 - name: PUCP
-  url: "https://pucp.academia.edu/jramirezb"
+  url: "http://facultad.pucp.edu.pe/ciencias-sociales/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Investigador situado entre el eclecticismo analítico y la emancipación del poder. 
@@ -42,13 +42,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "jramirezb@pucp.edu.pe"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:jramirezb@pucp.edu.pe"  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/javier.ramirezbullon
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jramirezbullon
-- icon: google-scholar
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/je.ramirezbullon/
+- icon: academia
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=8_i8Xo0AAAAJ&hl=es&oi=ao
+  link: https://pucp.academia.edu/jramirezb
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Javier_Ramirez_Bullon
+  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
