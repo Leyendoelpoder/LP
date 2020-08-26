@@ -75,4 +75,4 @@ user_groups:
 - Investigadores
 ---
 
-Christian es politólogo con estudios de maestría en Gerencia Social por la Pontificia Universidad Católica del Perú (PUCP) y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. Actualmente se desempeña como especialista en investigación cuantitativa y gestión social para proyectos de inversión en V&C Analistas y es docente en la Facultad de Ciencias Sociales de la PUCP. Es creador de Data Política y cofundador de Leyendo el Poder.
+Christian es politólogo con estudios de maestría en Gerencia Social por la Pontificia Universidad Católica del Perú (PUCP) y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. Actualmente se desempeña como especialista en investigación cuantitativa y gestión social para proyectos de inversión en V&C Analistas y es docente en la Facultad de Ciencias Sociales de la PUCP. Es creador del canal de divulgación sobre estadística aplicada para el análisis político "Data Política".

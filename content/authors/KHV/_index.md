@@ -14,11 +14,11 @@ role: Abogada e internacionalista
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad del Atlántico
-  url: "https://uniandes.academia.edu/KatrimDeLaHozDelVillar"
+- name: Universidad de los Andes
+  url: "https://faciso.uniandes.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Abogada por la Universidad del Atlántico (Colombia)
+bio:  Abogada por la Universidad del Atlántico y estudiante de la maestría en Estudios Internacionales Uniandes.
 
 interests:
 - Nuevos feminismos 
@@ -42,13 +42,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:k.delahoz@uniandes.edu.co"  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/katrimdelahoz
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/KatrimOrnitorri
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/katrimdelahoz/
+- icon: academia
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://uniandes.academia.edu/KatrimDeLaHozDelVillar
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,4 +72,5 @@ user_groups:
 - Investigadores
 ---
 
-Katrim es estudiante de la Maestría en Estudios Internacionales en la Universidad de los Andes (Colombia). Abogada por la Universidad del Atlántico (Colombia) donde es investigadora en los grupos de investigación DEPCIPE y Derecho y Territorio. Se interesa por los estudios internacionales desde la óptica del derecho y la ciencia política.
+Katrim es estudiante de la Maestría en Estudios Internacionales en la Universidad de los Andes (Colombia) y abogada de la Universidad del Atlántico. Su formación complementaria ha estado marcada en temas de gobernanza, gestión pública, desarrollo local, diálogo, posconflicto y paz. Se ha desempeñado profesionalmente en la facultad de Ciencias Jurídicas como asistente administrativa, representante del Semillero de Derecho Penal, Violencia y Conflicto, investigadora adscrita a la Facultad de Ciencias Jurídicas de la Universidad del Atlántico y oficial mayor en la Rama Judicial. Es evaluadora de REDCOLSI, en temáticas de DDHH, Gobernanza, Conflicto y Posconflicto. Ha publicado artículos investigativos en revistas especializadas y libros resultado de investigación.
+

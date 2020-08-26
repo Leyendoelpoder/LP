@@ -15,25 +15,24 @@ role: Politóloga
 # Organizations/Affiliations
 organizations:
 - name: PUCP
-  url: "https://www.linkedin.com/in/lidiaespinoza/"
+  url: "http://facultad.pucp.edu.pe/ciencias-sociales/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: LEV.
+bio: Magíster en Desarrollo Internacional por la Universidad de Sussex y politóloga PUCP.
 
 interests:
 - Desarrollo Internacional
 - Seguridad humana
 - Estudios culturales
 
-
 education:
   courses:
   - course: Mg. Desarrollo Internacional
     institution: University of Sussex
-    year: 20XX
+    year: 2019
   - course: Lic. Ciencia Política y Gobierno
     institution: Pontificia Universidad Católica del Perú
-    year: 20XX
+    year: 2014
 
 
 # Social/Academic Networking
@@ -43,13 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:lidiapaola.espinoza@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.facebook.com/lidia.p.espinoza
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/meshkalina_/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lidiaespinoza/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

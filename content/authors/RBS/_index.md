@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Iternacionalista
+role: Internacionalista
 
 # Organizations/Affiliations
 organizations:
 - name: Uniandes
-  url: "https://uniandes.academia.edu/ReynellBadillo"
+  url: "https://faciso.uniandes.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internacionalista de la Universidad del Norte con énfasis en Ciencia Política.
+bio: Internacionalista de la Universidad del Norte con énfasis en Ciencia Política y estudiante de la maestría en Estudios Internacionales Uniandes.
 
 interests:
 - Política exterior sudamericana
@@ -41,13 +41,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:reynellbadillo@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/Reynell17
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Reynellbadillo
-- icon: google-scholar
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/reynellbadillo/
+- icon: academia
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=8YvnbfwAAAAJ&hl=es&oi=ao
+  link: https://uniandes.academia.edu/ReynellBadillo
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/reynellbadillosarmiento/
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
