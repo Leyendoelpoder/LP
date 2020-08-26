@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Áreas temáticas"
-subtitle = "Programas de podcast y reseñas"
+title = "Áreas de interés"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
