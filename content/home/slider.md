@@ -17,8 +17,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "Nuevo episodio"
+  content = "La competencia geopolítica detrás de la vacuna COVID-19"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -30,10 +30,10 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_label = "Ver"
+  cta_url = "https://www.youtube.com/watch?v=WzQOBDBrbac"
+  cta_icon_pack = "fab"
+  cta_icon = "youtube"
 
 [[item]]
   title = "Left"
