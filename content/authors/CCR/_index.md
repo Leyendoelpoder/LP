@@ -41,11 +41,11 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: user-circle
-  icon_pack: fab
+  icon_pack: fas
   link: https://christianchiroque.com/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:christian.chiroque@pucp.edu.pe'  # For a direct email link, use "mailto:test@example.org".
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ch06074681/
