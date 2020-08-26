@@ -3,7 +3,7 @@ active = true
 headless = true
 subtitle = "Lecturas y más"
 title = "Sugerimos"
-weight = 70
+weight = 21
 widget = "pages"
 [advanced]
 css_class = ""
