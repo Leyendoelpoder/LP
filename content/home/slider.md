@@ -31,12 +31,12 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Ver en youtube"
   cta_url = "https://www.youtube.com/watch?v=WzQOBDBrbac"
-  cta_icon_pack = "fas"
+  cta_icon_pack = "fab"
   cta_icon = "youtube"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "Asociación aliada"
+  content = "Internacia"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -44,8 +44,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "Asociación aliada"
+  content = "Muro Llano"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
