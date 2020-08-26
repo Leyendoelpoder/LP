@@ -4,7 +4,7 @@ date_format = "Jan 2006"
 headless = true
 subtitle = ""
 title = "Nuestra historia"
-weight = 3
+weight = 36
 widget = "experience"
 [[experience]]
 company = "Lima, Perú"
@@ -15,12 +15,12 @@ description = "Christian y Javier forman un grupo de lectura llamado Logos no es
 location = "PUCP"
 title = "Primer intento"
 [[experience]]
-company = "University X"
+company = "Lima, Bogotá y Barranquilla"
 company_url = ""
-date_end = "2016-12-31"
-date_start = "2016-01-01"
-description = "Taught electronic engineering and researched semiconductor physics."
-location = "California"
-title = "Professor"
+date_end = ""
+date_start = "2020-08-28"
+description = "Lanzamos nuestra página web y tenemos un núcleo de colaboradores estables."
+location = "PUCP, Uniandes, Uninorte"
+title = "Consolidación"
 
 +++
