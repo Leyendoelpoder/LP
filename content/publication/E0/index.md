@@ -24,7 +24,10 @@ abstract: ¡Bienvenidos a Leyendo el poder! En nuestro primer podcast les contar
 summary: 
 
 tags:
-- Democratización, Interdisciplinariedad, Eclecticismo, Diálogo norte-sur
+- Democratización
+- Interdisciplinariedad
+- Eclecticismo
+- Diálogo norte-sur
 featured: true
 
 links:
