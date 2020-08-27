@@ -12,7 +12,7 @@ css_style = ""
 count = 5
 offset = 0
 order = "desc"
-page_type = "project"
+page_type = "post"
 [content.filters]
 author = ""
 category = ""
