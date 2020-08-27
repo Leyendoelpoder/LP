@@ -4,7 +4,7 @@ headless = true
 subtitle = "Lecturas y más"
 title = "Sugerimos"
 weight = 21
-widget = "pages"
+widget = "portfolio"
 [advanced]
 css_class = ""
 css_style = ""
