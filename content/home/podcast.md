@@ -12,7 +12,7 @@ css_style = ""
 count = 0
 link_to_archive = true
 order = "desc"
-page_type = "podcast"
+page_type = "publication"
 [content.filters]
 author = ""
 category = ""
