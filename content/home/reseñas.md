@@ -21,7 +21,6 @@ publication_type = ""
 tag = ""
 [design]
 view = 2
-show_social = true
 [design.background]
 
 +++
