@@ -24,13 +24,14 @@ abstract: ¡Bienvenidos a Leyendo el poder! En nuestro primer podcast les contar
 summary: 
 
 tags:
-- Source Themes
+- Democratización, Interdisciplinariedad, Eclecticismo, Diálogo norte-sur
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_video: '#'
+- name: Spotify
+  url: https://open.spotify.com/embed-podcast/episode/3ttZNYLZKtus7A6OxWel4p
+url_video: 'https://www.youtube.com/embed/Fl5YYieKr4A'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -56,3 +57,5 @@ slides: ""
 ---
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/3ttZNYLZKtus7A6OxWel4p" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fl5YYieKr4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
