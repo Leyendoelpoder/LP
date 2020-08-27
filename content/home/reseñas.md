@@ -3,8 +3,8 @@ active = true
 headless = true
 subtitle = ""
 title = "Reseñas"
-weight = "20"
-widget = "portfolio"
+weight = 20
+widget = "pages"
 [advanced]
 css_class = ""
 css_style = ""
@@ -20,7 +20,11 @@ exclude_featured = false
 publication_type = ""
 tag = ""
 [design]
+show_social = false
 view = 2
 [design.background]
 
 +++
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
