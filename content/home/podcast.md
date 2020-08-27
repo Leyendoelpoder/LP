@@ -20,7 +20,7 @@ publication_type = ""
 tag = ""
 [design]
 columns = "3"
-view = 2
+view = 4
 [design.background]
 
 +++
