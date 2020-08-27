@@ -1,6 +1,6 @@
 ---
 title: Asociación Civil Internacia (PUCP)
-summary: Realizamos análisis de coyuntura global a partir de nuestra convergencia sobre el carácter interdisciplinario de las RRII y la necesidad de conectarla con el público general. 
+summary: Compartimos un punto de vista interdisciplinario sobre las RRII y el objetivo de acercarlas al público general. Hacemos análisis de coyuntura global. 
 tags:
 - Demo
 date: "2020-08-22T00:00:00Z"

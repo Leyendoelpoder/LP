@@ -1,6 +1,6 @@
 ---
 title: Muro Llano
-summary: Realizamos programas conjuntos con miembros de Muro Llano en las secciones de conocimiento y poder, así como en las dedicadas a teoría política internacional. El pilar de nuestra convergencia es el conocimiento abierto.
+summary: El pilar de nuestra convergencia es el conocimiento abierto. Trabajamos en programas especializados en las áreas de filosofía política y teoría política internacional.
 tags:
 - Demo
 date: "2020-08-22T00:00:00Z"
