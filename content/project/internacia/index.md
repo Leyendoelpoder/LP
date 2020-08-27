@@ -1,6 +1,6 @@
 ---
-title: Análisis de coyuntura global
-summary: En alianza con la Asociación Civil Internacia
+title: Asociación Civil Internacia (PUCP)
+summary: Realizamos análisis de coyuntura global a partir de nuestra convergencia sobre el carácter interdisciplinario de las RRII y la necesidad de conectarla con el público general. 
 tags:
 - Demo
 date: "2020-08-22T00:00:00Z"
