@@ -1,5 +1,5 @@
 ---
-title: "En diálogo con la interseccionalidad"
+title: "La competencia geopolítica detrás de la vacuna COVID-19"
 authors:
 - RBS
 - JRB
