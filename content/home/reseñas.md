@@ -4,7 +4,7 @@ headless = true
 subtitle = ""
 title = "Reseñas"
 weight = "20"
-widget = "portfolio"
+widget = "featured"
 [advanced]
 css_class = ""
 css_style = ""
