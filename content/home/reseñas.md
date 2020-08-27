@@ -1,9 +1,9 @@
 +++
 active = true
 headless = true
-subtitle = ""
-title = "Reseñas"
-weight = "20"
+subtitle = "Lecturas y más"
+title = "Sugerimos"
+weight = "22"
 widget = "portfolio"
 [advanced]
 css_class = ""
