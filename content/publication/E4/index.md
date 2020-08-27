@@ -48,7 +48,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- Coyuntura internacional
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -58,6 +58,6 @@ projects:
 slides: ""
 ---
 
-<iframe src="https://open.spotify.com/episode/4ffqLq9MpolRkTdQGcemBm?si=2bbnxjt4T_Knb69bYpfKvA" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/4ffqLq9MpolRkTdQGcemBm" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WzQOBDBrbac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WzQOBDBrbac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
