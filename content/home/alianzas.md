@@ -10,7 +10,7 @@ css_class = ""
 css_style = ""
 [content]
 filter_default = 0
-page_type = "project"
+page_type = "alianzas"
 [design]
 columns = "2"
 flip_alt_rows = false
