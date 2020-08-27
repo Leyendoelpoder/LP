@@ -23,8 +23,4 @@ tag = ""
 show_social = false
 view = 2
 [design.background]
-
 +++
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
