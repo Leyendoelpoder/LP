@@ -22,13 +22,15 @@ abstract: En este programa les contaremos por qué es tan importante hablar de i
 summary: 
 
 tags:
-- Source Themes
+- Interseccionalidad
+- Kimberlé Crenshaw
+- Rita Segato
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_video: '#'
+- name: Spotify
+  url: https://open.spotify.com/embed-podcast/episode/73oGirhtFLCaTTaDi0bMev
+url_video: 'https://www.youtube.com/embed/z25JgbYlF8o'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
