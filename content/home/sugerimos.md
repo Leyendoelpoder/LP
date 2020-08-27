@@ -12,7 +12,7 @@ css_style = ""
 count = 5
 offset = 0
 order = "desc"
-page_type = "talk"
+page_type = "project"
 [content.filters]
 author = ""
 category = ""
