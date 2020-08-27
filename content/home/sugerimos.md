@@ -1,10 +1,10 @@
 +++
 active = true
 headless = true
-subtitle = "Lecturas y más"
-title = "Sugerimos"
-weight = 21
-widget = "portfolio"
+subtitle = ""
+title = "Reseñas"
+weight = 20
+widget = "pages"
 [advanced]
 css_class = ""
 css_style = ""
@@ -12,17 +12,15 @@ css_style = ""
 count = 5
 offset = 0
 order = "desc"
-page_type = "sugerimos"
+page_type = "reseñas"
 [content.filters]
 author = ""
 category = ""
 exclude_featured = false
-exclude_future = false
-exclude_past = false
 publication_type = ""
 tag = ""
 [design]
-view = 3
+show_social = false
+view = 2
 [design.background]
-
 +++
