@@ -47,7 +47,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- Conocimiento y poder
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -59,4 +59,4 @@ slides: ""
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/3w4xGykClyZi5uDRqqKnlr" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=o34qpO-0ETw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o34qpO-0ETw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
