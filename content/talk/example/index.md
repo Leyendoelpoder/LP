@@ -36,8 +36,8 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Documental
+  url: https://es.wikipedia.org/wiki/La_revoluci%C3%B3n_y_la_tierra
 url_code: ""
 url_pdf: ""
 url_slides: ""
