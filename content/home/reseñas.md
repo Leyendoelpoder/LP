@@ -20,7 +20,7 @@ exclude_featured = false
 publication_type = ""
 tag = ""
 [design]
-view = 1
+view = 3
 [design.background]
 
 +++
