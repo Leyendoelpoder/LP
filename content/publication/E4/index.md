@@ -1,14 +1,16 @@
 ---
 title: "En diálogo con la interseccionalidad"
 authors:
-- KHV
-- LEV
+- RBS
+- JRB
+- Shirley Patiño
+- Antuané Vera
 
-date: "2020-07-01T00:00:00Z"
+date: "2020-08-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2020-08-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,21 +18,22 @@ publishDate: "2020-01-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["0"]
 
-abstract: Conversamos sobre interseccionalidad con Claudia Quintero, directora de la Corporación Anne Frank, defensora de Derechos Humanos. Claudia nos cuenta cómo experimenta la interseccionalidad en su trabajo como activista y en su vida personal.
+abstract: ¿Qué intereses políticos hay detrás de la competencia por conseguir la vacuna contra el COVID-19? ¿Cómo cambia el orden internacional con la pandemia? ¿Qué estan haciendo los países latinoamericanos? Conduce Reynell Badillo, Participan:Shirley Patino, Antunané Vera y Javier Ramírez Bullón. Trabajo de colaboración entre LEP y la Asociación civil Internacia.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Interseccionalidad
-- Claudia Quintero
-- Corporación Anne Frank
+- Orden Internacional
+- COVID-19
+- China
+- Estados Unidos
 featured: true
 
 links:
 - name: Spotify
-  url: https://open.spotify.com/embed-podcast/episode/5w5ooL0oYZyqH5MQDrfvus
-url_video: 'https://www.youtube.com/embed/qoPpu2UkYUI'
+  url: https://open.spotify.com/episode/4ffqLq9MpolRkTdQGcemBm?si=2bbnxjt4T_Knb69bYpfKvA
+url_video: 'https://www.youtube.com/watch?v=WzQOBDBrbac'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -55,6 +58,6 @@ projects:
 slides: ""
 ---
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/5w5ooL0oYZyqH5MQDrfvus" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/episode/4ffqLq9MpolRkTdQGcemBm?si=2bbnxjt4T_Knb69bYpfKvA" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qoPpu2UkYUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WzQOBDBrbac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
