@@ -1,5 +1,5 @@
 ---
-title: Asociación Civil Internacia (PUCP)
+title: Asociación Civil Internacia
 summary: Compartimos un punto de vista interdisciplinario sobre las RRII y el objetivo de acercarlas al público general. Hacemos análisis de coyuntura global. 
 tags:
 - Demo
