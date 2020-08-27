@@ -22,13 +22,15 @@ abstract: Conversamos sobre interseccionalidad con Claudia Quintero, directora d
 summary: 
 
 tags:
-- Source Themes
+- Interseccionalidad
+- Claudia Quintero
+- Corporación Anne Frank
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_video: '#'
+- name: Spotify
+  url: https://open.spotify.com/embed-podcast/episode/5w5ooL0oYZyqH5MQDrfvus
+url_video: 'https://www.youtube.com/embed/qoPpu2UkYUI'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
