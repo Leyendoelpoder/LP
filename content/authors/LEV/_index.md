@@ -65,7 +65,7 @@ email: "ddd"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Comunidad anárquica
+- La comunidad anárquica
 ---
 
 Lidia es master en Desarrollo Internacional por la Universidad de Sussex y politóloga PUCP. Tiene cinco años de experiencia en investigación, gestión de proyectos, advocacy, e impacto y evaluación. Se interesa por los estudios de género, seguridad humana, migración y estudios culturales en América Latina y el Caribe.
