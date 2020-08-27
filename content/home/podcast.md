@@ -10,7 +10,7 @@ css_class = ""
 css_style = ""
 [content]
 count = 0
-link_to_archive = false
+link_to_archive = true
 order = "desc"
 page_type = "podcast"
 [content.filters]
