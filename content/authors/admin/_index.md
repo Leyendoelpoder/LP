@@ -33,4 +33,4 @@ Leyendo el poder es un espacio abierto de reflexión y diálogo donde conoceremo
 
 Nuestras ideas fundacionales son la democratización del conocimiento, la interdisciplinariedad, el diálogo norte-sur, y el eclecticismo teórico.
 
-Somos politólogos e internacionalistas egresados de la Pontificia Universidad Católica del Perú, Universidad de los Andes (Colombia) y la Universidad del Norte (Barranquilla).
+Somos politólogos e internacionalistas egresados de la Pontificia Universidad Católica del Perú (Lima), Universidad de los Andes (Bogotá) y la Universidad del Norte (Barranquilla).
