@@ -1,12 +1,13 @@
 ---
 title: "Nuestras ideas fundacionales"
+subtitle: Reseña de documental
 authors:
 - JRB
 - CCR
 - KHV
 - RBS
 
-date: "2020-07-05T00:00:00Z"
+date: "2020-07-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
