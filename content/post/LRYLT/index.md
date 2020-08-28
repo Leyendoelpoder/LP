@@ -4,11 +4,10 @@ subtitle: Reseña de documental
 authors:
 - CCR
 
-date: "2020-04-13"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-13"
+date: "2020-04-13T00:00:00Z"
+lastMod: ""
+featured: false
+draft: false
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +15,7 @@ publishDate: "2020-04-13"
 # 7 = Thesis; 8 = Patent
 publication_types: ["0"]
 
-abstract: Reseña crítica de documental.
+abstract: Reseña de documental.
 
 # Summary. An optional shortened abstract.
 summary: 
