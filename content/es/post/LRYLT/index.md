@@ -1,32 +1,15 @@
 ---
 title: "La revolución y la tierra de Gonzalo Benavente"
-subtitle: Reseña de documental
+subtitle: Reseña de documental.
+summary: 
 authors:
 - CCR
-
-date: "2020-04-13"
-publishDate: "2020-04-13"
-
-featured: true
-
+tags: [Historia política, Perú]
+categories: []
+date: "2020-04-13T00:00:00Z"
+lastMod: "2020-04-13T00:00:00Z"
+featured: false
 draft: false
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["4"]
-
-abstract: Reseña de documental.
-
-# Summary. An optional shortened abstract.
-summary: 
-
-tags:
-- Historia política
-- Perú
-- Documental
-featured: true
 
 links:
 - icon: facebook
