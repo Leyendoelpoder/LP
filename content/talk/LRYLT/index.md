@@ -1,11 +1,9 @@
 ---
 title: La revolución y la tierra de Gonzalo Benavente
-
+date: "2020-07-05T00:00:00Z"
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-
+# End time can optionally be hidden by prefixing the line with `#`.
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-04-13T00:00:00Z"
 
 authors: [CCR]
 tags: [Historia política, Documental, Perú]
