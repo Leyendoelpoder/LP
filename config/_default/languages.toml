@@ -14,27 +14,27 @@
   title = "Leyendo el poder"
   [es.params]
     description = "Un espacio abierto donde conoceremos nuevas perspectivas de la Ciencia Política y los Estudios Internacionales."
-  [[main]]
+  [[es.menu.main]]
     name = "Presentación"
     url = "#presentación"
     weight = 10
-  [[main]]
+  [[es.menu.main]]
     name = "Podcast"
     url = "#podcast"
     weight = 20
-  [[main]]
+  [[es.menu.main]]
     name = "Reseñas"
     url = "#reseñas"
     weight = 30
-  [[main]]
+  [[es.menu.main]]
     name = "Sugerimos"
     url = "#sugerimos"
     weight = 40
-  [[main]]
+  [[es.menu.main]]
     name = "Quiénes somos"
     url = "#somos"
     weight = 50
-  [[main]]
+  [[es.menu.main]]
     name = "Contacto"
     url = "#contacto"
     weight = 60
