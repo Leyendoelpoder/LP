@@ -6,9 +6,9 @@ authors:
 - CCR
 tags: [Historia política, Perú]
 categories: []
-date: "2020-13-04T00:00:00Z"
-lastMod: "2020-13-04T00:00:00Z"
-featured: false
+date: "2020-04-13T00:00:00Z"
+lastMod: "2020-04-13T00:00:00Z"
+featured: true
 draft: false
 
 links:
