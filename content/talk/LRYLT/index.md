@@ -1,19 +1,31 @@
 ---
-title: La revolución y la tierra de Gonzalo Benavente
-date: "2020-07-05T00:00:00Z"
-# Talk start and end times.
-# End time can optionally be hidden by prefixing the line with `#`.
-# Schedule page publish date (NOT talk date).
+title: "La revolución y la tierra de Gonzalo Benavente"
+subtitle: Reseña de documental
+authors:
+- CCR
 
-authors: [CCR]
-tags: [Historia política, Documental, Perú]
+date: "2020-04-13"
+doi: ""
 
-# Is this a featured talk? (true/false)
-featured: false
+# Schedule page publish date (NOT publication's date).
+publishDate: "2020-04-13T00:00:00Z"
 
-image:
-  caption: ''
-  focal_point: Right
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["0"]
+
+abstract: Reseña crítica de documental.
+
+# Summary. An optional shortened abstract.
+summary: 
+
+tags:
+- Historia política
+- Perú
+- Documental
+featured: true
 
 links:
 - icon: facebook
@@ -25,23 +37,27 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- 
 
-# Enable math on this page?
-math: true
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
 ---
 La revolución y la tierra es un documental que tiene como objetivo brindar un recorrido sobre el proceso histórico que precedió y sucedió a la reforma agraria implementada durante el gobierno de Juan Velasco Alvarado (1968 - 1975). De esta manera, Benavente presenta (en su segundo largometraje) a la reforma de 1969 como un hito histórico que no sólo repercutió en la base de la estructura económica que había regido hasta entonces (la hacienda, la oligarquía y la concentración de la propiedad de la tierra), sino también en la dinámica social, política y cultural del país.
 
