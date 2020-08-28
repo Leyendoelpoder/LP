@@ -6,7 +6,6 @@ authors:
 
 date: "2020-04-13"
 publishDate: "2020-04-13"
-lastMod: "2020-04-13"
 
 featured: true
 
