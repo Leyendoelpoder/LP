@@ -71,7 +71,7 @@ email: "jramirezb@pucp.edu.pe"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- La comunidad anárquica
+- Comunidad heterárquica
 ---
 
 Reynell es internacionalista de la Universidad del Norte con énfasis en Ciencia Política y estudiante de la Maestría en Estudios Internacionales de la Universidad de Los Andes. Con experiencia en investigación y publicaciones relacionadas con la política exterior colombiana, el conflicto armado y el crimen organizado en el Caribe colombiano y América Latina. Ha participado en comités editoriales de revistas académicas, contribuido a la realización de foros de investigación, ha sido ponente en eventos académicos y se desempeña actualmente como miembro de la red de expertos de La Silla Caribe. 
