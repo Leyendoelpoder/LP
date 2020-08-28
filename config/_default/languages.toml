@@ -12,9 +12,9 @@
   languageCode = "es"
   contentDir = "content/es"
   title = "Leyendo el poder"
-  [zh.params]
+  [es.params]
     description = "Un espacio abierto donde conoceremos nuevas perspectivas de la Ciencia Política y los Estudios Internacionales."
-  [[zh.menu.main]]
+  [[es.menu.main]]
     name = "Leyendo el poder"
     url = "#about"
     weight = 1
