@@ -4,7 +4,9 @@ subtitle: Reseña de documental
 authors:
 - CCR
 
-date: "2020-04-13T00:00:00Z"
+date: "2020-04-13"
+publishDate: "2020-04-13"
+lastMod: "2020-04-13"
 
 featured: false
 draft: false
