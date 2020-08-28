@@ -1,6 +1,6 @@
 ---
 title: "Nuestras ideas fundacionales"
-subtitle: Reseña de documental
+subtitle:
 authors:
 - JRB
 - CCR
