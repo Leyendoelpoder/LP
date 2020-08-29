@@ -43,8 +43,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-31 de mayo de 2020.
-
 Durante la pandemia muchos han sido los que han vaticinado el fin del mundo como lo conocíamos, unos desde la orilla de mejores cosas vendrán y otros desde ese lugar común que pregona el “vendrán cosas peores”. En ese panorama de incertidumbre, los gobiernos han tenido que tomar un rol protagónico para guiar y reducir las consecuencias durante y después de la crisis gestada bajo los albores del Covid-19. Precisamente, muchas de las medidas tomadas se han centrado en el sostenimiento del modelo económico mediante el apoyo a múltiples sectores productivos generadores de valor, pero ¿cuáles son esos sectores y qué los hace tan valiosos para el mantenimiento del sistema económico? 
 
 Esta y otras preguntas se han generado en el marco de la crisis por el coronavirus, la cual ha enfrentado a la sociedad mundial a nuevas realidades y reflexiones centradas en la noción del valor. Es aquí cuando el libro El valor de las cosas: quién produce y quién gana en la economía global, escrito por la economista y profesora de Economía de la Innovación y Valor Público en la University College London Mariana Mazzucato (2018), nos ofrece algunas pistas para hacerle frente a estos interrogantes, en tanto introduce un debate fundamental frente a la noción de creación – extracción de valor. 

@@ -43,8 +43,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-7 de junio de 2020.
-
 Una aproximación a partir del artículo “Ocultando la corrupción”: cómo los funcionarios chinos distorsionan reportes” (Pan y Chen, 2018, American Political Science Review).
 
 Mientras que muchos países en occidente aún luchan por contener el COVID-19, en China, origen de la actual pandemia, el gobierno ha logrado mantener el número de contagios relativamente bajo. Pese a que el gobierno chino actuó decisiva y exitosamente desde el 23 de enero logrando reducir la curva de contagios, cuestiones políticas impidieron que se tomaran acciones que permitieran controlar la pandemia desde el comienzo.

@@ -43,8 +43,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-3 de julio de 2020.
-
 ¿Cuál es la capacidad de respuesta de los sistemas democráticos ante las contingencias del COVID-19? En las siguientes líneas, atendemos esta pregunta a partir de las reflexiones que suscita el artículo La política de la frustración en América Latina (2019) de Adelman y Pryluka (Project Syndicate). Nuestro texto analiza tres niveles de la práctica política: individuo en relación con la sociedad, sociedad frente a la política y Estado nacional frente al escenario global. Es decir, desarrollamos una evaluación de la democracia representativa a partir de las relaciones individuo-sociedad-Estado.
 
 1-	Del descontento social al respaldo de líderes “fuertes”

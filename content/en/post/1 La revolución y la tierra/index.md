@@ -43,8 +43,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-13 de abril de 2020.
-
 La revolución y la tierra es un documental que tiene como objetivo brindar un recorrido sobre el proceso histórico que precedió y sucedió a la reforma agraria implementada durante el gobierno de Juan Velasco Alvarado (1968 - 1975). De esta manera, Benavente presenta (en su segundo largometraje) a la reforma de 1969 como un hito histórico que no sólo repercutió en la base de la estructura económica que había regido hasta entonces (la hacienda, la oligarquía y la concentración de la propiedad de la tierra), sino también en la dinámica social, política y cultural del país.
 
 Una gran fortaleza del documental es la forma de acercarse a la problemática en cuestión. Haciendo uso no sólo de experiencias de actores que han vivido en carne propia los procesos, desde testimonios de exlíderes campesinos hasta de hacedores de política como el expresidente Morales Bermúdez, sino también recogiendo las lecturas de diversos especialistas en ciencias sociales, por lo cual el documental tiene una fuerte base analítica. No sólo son hechos y registros expuestos, muy interesantes, sino también la interacción de las distintas miradas que han surgido a partir de estos y que hasta hoy en día generan controversia.

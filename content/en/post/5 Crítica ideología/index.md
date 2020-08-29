@@ -43,8 +43,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-16 de junio de 2020.
-
 ¿Qué pasaría si nos pusiéramos unas gafas que permiten ver detrás de la propaganda? Esta pregunta fue explorada en la película They Live, dirigida por John Carpenter en 1988, una cinta ochentera y de "Serie B" que les recomendamos porque nos incita a reflexionar sobre cómo funciona la ideología política en la vida cotidiana.
 
 1- De emprendedor apático a revolucionario: la historia de John Nada

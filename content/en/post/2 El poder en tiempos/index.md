@@ -43,8 +43,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-17 de mayo de 2020.
-
 La pandemia ha generado gran incertidumbre en el mundo. Los gobiernos buscan identificar qué políticas son las más adecuadas para asegurar el bienestar de sus sociedades. Sin embargo, no tienen claridad en la toma de decisiones porque incluso sus análisis de riesgos más sofisticados tienen graves limitaciones. El problema de fondo es que aún existen incógnitas desconocidas sobre el virus y sus consecuencias. Por ende, los cambios inesperados que están ocurriendo en diversas áreas de la vida global hacen que los diagnósticos gubernamentales sean provisionales. ¿Por qué es difícil para los Estados comprender y controlar la incertidumbre durante la pandemia? 
 
 A continuación, abordamos esta problemática con base en el libro Poder proteico: explorando lo incierto e inesperado en la política mundial, editado por Katzenstein y Seybert (2018, Cambridge University Press). Esta obra ofrece dos ideas que son pertinentes para nuestro enigma y que desarrollaremos en los siguientes párrafos: 1) los gobiernos pierden poder ante eventos inesperados cuando asumen que el mundo es un sistema hermético, y 2) existe un tipo de poder que responde a la incertidumbre con innovación, el cual se denomina poder proteico. Luego de abordar estos puntos, señalaremos dos casos que evidencian las limitaciones del poder gubernamental durante la pandemia: las fallas del sistema de prevención de epidemias en China y las políticas de cuarentena en América Latina. Finalizamos el texto con algunas reflexiones sobre las posibilidades de innovación gubernamental y académica frente a esta crisis.
