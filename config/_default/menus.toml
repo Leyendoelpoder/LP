@@ -19,11 +19,6 @@
   weight = 30
 
 [[main]]
-  name = "Sugerimos"
-  url = "#sugerimos"
-  weight = 40
-
-[[main]]
   name = "Quiénes somos"
   url = "#somos"
   weight = 50

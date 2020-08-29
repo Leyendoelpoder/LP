@@ -27,10 +27,6 @@
     url = "#reseñas"
     weight = 30
   [[es.menu.main]]
-    name = "Sugerimos"
-    url = "#sugerimos"
-    weight = 40
-  [[es.menu.main]]
     name = "Quiénes somos"
     url = "#somos"
     weight = 50
