@@ -22,6 +22,8 @@ bio: Internacionalista de la Universidad del Norte y magíster en Estudios Inter
 
 interests:
 - Diplomacia cultural
+- Paradiplomacia
+- Asia y Medio Oriente
 
 education:
   courses:
