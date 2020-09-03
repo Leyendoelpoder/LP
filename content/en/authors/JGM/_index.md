@@ -47,9 +47,6 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/juan.miranda.7773
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Reynellbadillo
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/juanmirandacorzo/
