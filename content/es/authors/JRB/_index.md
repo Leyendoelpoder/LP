@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Politólogo e internacionalista
+role: Politólogo e internacionalista, PUCP, Uniandes.
 
 # Organizations/Affiliations
 organizations:

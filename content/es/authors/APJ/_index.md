@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Internacionalista
+role: Internacionalista, Uninorte, Uniandes.
 
 # Organizations/Affiliations
 organizations:

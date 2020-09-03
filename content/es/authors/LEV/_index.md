@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Politóloga
+role: Politóloga, PUCP, U.Sussex.
 
 # Organizations/Affiliations
 organizations:
