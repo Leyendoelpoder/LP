@@ -3,7 +3,7 @@ title: "¿Qué retrasó la respuesta inicial de China frente al COVID-19?"
 subtitle: Reseña de artículo.
 summary: 
 authors:
-- Roberto Rondo Garcés
+- RRG
 tags: [China, Sistemas de control, Autoritarismo, Pandemia, COVID-19]
 categories: []
 date: "2020-06-07T00:00:00Z"
@@ -43,8 +43,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Una aproximación a partir del artículo “Ocultando la corrupción”: cómo los funcionarios chinos distorsionan reportes” (Pan y Chen, 2018, American Political Science Review).
-
 Mientras que muchos países en occidente aún luchan por contener el COVID-19, en China, origen de la actual pandemia, el gobierno ha logrado mantener el número de contagios relativamente bajo. Pese a que el gobierno chino actuó decisiva y exitosamente desde el 23 de enero logrando reducir la curva de contagios, cuestiones políticas impidieron que se tomaran acciones que permitieran controlar la pandemia desde el comienzo.
 
 El sistema de alerta temprana de enfermedades infecciosas

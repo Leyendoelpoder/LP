@@ -3,7 +3,7 @@ title: "¿Qué retrasó la respuesta inicial de China frente al COVID-19?"
 subtitle: Reseña de artículo.
 summary: 
 authors:
-- Roberto Rondo Garcés
+- RRG
 tags: [China, Sistemas de control, Autoritarismo, Pandemia, COVID-19]
 categories: []
 date: "2020-06-07T00:00:00Z"

@@ -3,7 +3,7 @@ title: "La crisis de las repúblicas liberales frente a la incertidumbre"
 subtitle: Reseña de artículos.
 summary: 
 authors:
-- José Chávez Villar
+- JCV
 tags: [Liberalismo, Perú, Latinoamérica, Movilización social]
 categories: []
 date: "2020-07-03T00:00:00Z"
