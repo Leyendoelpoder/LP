@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Reynell Badillo Sarmiento
+title: Alexandra Pérez Jiménez
 
 # Username (this should match the folder name)
 authors:
-- RBS
+- APJ
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,11 +18,10 @@ organizations:
   url: "https://faciso.uniandes.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internacionalista de la Universidad del Norte con énfasis en Ciencia Política y estudiante de la maestría en Estudios Internacionales Uniandes.
+bio: Internacionalista de la Universidad del Norte y magíster en Estudios Internacionales Uniandes.
 
 interests:
-- Política exterior sudamericana
-- Seguridad Internacional
+- Diplomacia cultural
 
 education:
   courses:
@@ -41,22 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:reynellbadillo@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:ac.perezj@uniandes.edu.co"  # For a direct email link, use "mailto:test@example.org".
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/Reynell17
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Reynellbadillo
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/reynellbadillo/
-- icon: academia
+  link: https://www.facebook.com/aleperez19
+- icon: researchgate
   icon_pack: ai
-  link: https://uniandes.academia.edu/ReynellBadillo
+  link: https://www.researchgate.net/profile/Alexandra_Perez_Jimenez
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/reynellbadillosarmiento/
+  link: https://www.linkedin.com/in/alexandra-p%C3%A9rez-jim%C3%A9nez-45b023152/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -66,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ra.badillo@uniandes.edu.co"
+email: "ac.perezj@uniandes.edu.co"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,4 +67,4 @@ user_groups:
 - Comunidad heterárquica
 ---
 
-Reynell es internacionalista de la Universidad del Norte con énfasis en Ciencia Política y estudiante de la Maestría en Estudios Internacionales de la Universidad de Los Andes. Con experiencia en investigación y publicaciones relacionadas con la política exterior colombiana, el conflicto armado y el crimen organizado en el Caribe colombiano y América Latina. Ha participado en comités editoriales de revistas académicas, contribuido a la realización de foros de investigación, ha sido ponente en eventos académicos y se desempeña actualmente como miembro de la red de expertos de La Silla Caribe. 
+Alexandra es internacionalista, con énfasis en Ciencia Política de la Universidad del Norte (Barranquilla, Colombia). Magíster en Estudios Internacionales de la Universidad de los Andes (Bogotá, Colombia). Cuenta con experiencia en investigación, docencia universitaria y trabajo en organismos internacionales. He estado vinculada con la Universidad del Norte, el Parlamento Andino, la Universidad de los Andes y la Organización Internacional para las Migraciones (OIM). 

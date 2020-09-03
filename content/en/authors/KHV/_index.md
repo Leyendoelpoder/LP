@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Abogada e internacionalista
+role: Abogada e internacionalista, U.Atlántico, Uniandes.
 
 # Organizations/Affiliations
 organizations:

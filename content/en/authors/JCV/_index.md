@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Lidia Espinoza Vásquez
+title: José Chavez Villar
 
 # Username (this should match the folder name)
 authors:
-- LEV
+- JCV
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Politóloga, PUCP, U.Sussex.
+role: Politólogo e historiador, PUCP.
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,20 @@ organizations:
   url: "http://facultad.pucp.edu.pe/ciencias-sociales/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Magíster en Desarrollo Internacional por la Universidad de Sussex y politóloga PUCP.
+bio: Politólogo e historiador, PUCP.
 
 interests:
-- Desarrollo Internacional
-- Seguridad humana
-- Estudios culturales
+- Políticas de seguridad
+- Radicalización política
+- Historia política latinoamericana
 
 education:
   courses:
-  - course: Mg. Desarrollo Internacional
-    institution: University of Sussex
-    year: 2019
+  - course: Mg. Historia
+    institution: Pontifica Universidad Católica del Perú
+    year: 2020
   - course: Lic. Ciencia Política y Gobierno
-    institution: Pontificia Universidad Católica del Perú
+    institution: Pontifica Universidad Católica del Perú
     year: 2014
 
 
@@ -42,16 +42,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lidiapaola.espinoza@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:j.chavezv@pucp.edu.pe"  # For a direct email link, use "mailto:test@example.org".
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/lidia.p.espinoza
+  link: https://www.facebook.com/josecv11
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/jocv111
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/meshkalina_/
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/lidiaespinoza/
+  link: https://www.instagram.com/jocv11/
+  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lidiapaola.espinoza@gmail.com"
+email: "jramirezb@pucp.edu.pe"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,4 +69,4 @@ user_groups:
 - Comunidad heterárquica
 ---
 
-Lidia es master en Desarrollo Internacional por la Universidad de Sussex y politóloga PUCP. Tiene cinco años de experiencia en investigación, gestión de proyectos, advocacy, e impacto y evaluación. Se interesa por los estudios de género, seguridad humana, migración y estudios culturales en América Latina y el Caribe.
+José es Politólogo e historiador, PUCP.

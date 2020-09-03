@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Politólogo e internacionalista
+role: Politólogo e internacionalista, PUCP, Uniandes.
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: Investigador situado entre el eclecticismo analítico y la emancipación del poder. 
 
 interests:
-- Política exterior comparada
-- Regionalismo e integración
+- Orden internacional
+- Política exterior
 - Ideologías políticas
 
 education:
