@@ -51,7 +51,7 @@ social:
   link: https://twitter.com/jramirezbullon
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/je.ramirezbullon/
+  link: https://www.instagram.com/javier.proteico/
 - icon: academia
   icon_pack: ai
   link: https://pucp.academia.edu/jramirezb
