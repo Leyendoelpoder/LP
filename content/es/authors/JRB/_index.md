@@ -48,7 +48,7 @@ social:
   link: https://www.facebook.com/javier.ramirezbullon
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jramirezbullon
+  link: https://twitter.com/javier.erb
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/javier.proteico/
