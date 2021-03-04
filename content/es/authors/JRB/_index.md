@@ -18,7 +18,7 @@ organizations:
   url: "http://facultad.pucp.edu.pe/ciencias-sociales/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador situado entre el eclecticismo analítico y la emancipación del poder. 
+bio: Politólogo e internacionalista. 
 
 interests:
 - Orden internacional
@@ -75,4 +75,4 @@ user_groups:
 - Comunidad heterárquica
 ---
 
-Javier es politólogo PUCP e internacionalista Uniandes. Busca generar puentes entre el conocimiento académico y la sociedad a través de una perspectiva ecléctica y que conciba al poder como fuerza emancipadora. Cuenta con experiencia en la organización y ejecución de proyectos de investigación grupales, así como en la innovación de programas curriculares universitarios. Ha expuesto en congresos internacionales (ISA, LASA, ALACIP, Redintercol), escrito un libro (Fondo editorial PUCP) y diversos artículos publicados en revistas académicas (Politai, Desafíos, RAEP). 
+Javier es politólogo PUCP e internacionalista Uniandes. Cuenta con experiencia en la organización y ejecución de proyectos de investigación grupales, así como en la innovación de programas curriculares universitarios. Ha expuesto en congresos internacionales (ISA, LASA, ALACIP, Redintercol), escrito un libro (Fondo editorial PUCP) y diversos artículos publicados en revistas académicas (Politai, Desafíos, RAEP). 
